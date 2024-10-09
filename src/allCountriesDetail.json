@@ -1,0 +1,2234 @@
+[
+  {
+    "name": "Afghanistan",
+    "isoCode": "AF",
+    "flag": "🇦🇫",
+    "phonecode": "93",
+    "currency": "AFN",
+    "symbol": "؋",
+    "commonName": "Afghani"
+  },
+  {
+    "name": "Aland Islands",
+    "isoCode": "AX",
+    "flag": "🇦🇽",
+    "phonecode": "+358-18",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "Albania",
+    "isoCode": "AL",
+    "flag": "🇦🇱",
+    "phonecode": "355",
+    "currency": "ALL",
+    "symbol": "L",
+    "commonName": "Lek"
+  },
+  {
+    "name": "Algeria",
+    "isoCode": "DZ",
+    "flag": "🇩🇿",
+    "phonecode": "213",
+    "currency": "DZD",
+    "symbol": "د.ج",
+    "commonName": "Dinar"
+  },
+  {
+    "name": "American Samoa",
+    "isoCode": "AS",
+    "flag": "🇦🇸",
+    "phonecode": "+1-684",
+    "currency": "USD",
+    "symbol": "$",
+    "commonName": "Dollar"
+  },
+  {
+    "name": "Andorra",
+    "isoCode": "AD",
+    "flag": "🇦🇩",
+    "phonecode": "376",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "Angola",
+    "isoCode": "AO",
+    "flag": "🇦🇴",
+    "phonecode": "244",
+    "currency": "AOA",
+    "symbol": "Kz",
+    "commonName": "Kwanza"
+  },
+  {
+    "name": "Anguilla",
+    "isoCode": "AI",
+    "flag": "🇦🇮",
+    "phonecode": "+1-264",
+    "currency": "XCD",
+    "symbol": "$",
+    "commonName": "Dollar"
+  },
+  {
+    "name": "Antarctica",
+    "isoCode": "AQ",
+    "flag": "🇦🇶",
+    "phonecode": "672",
+    "currency": "AAD",
+    "symbol": "None",
+    "commonName": "Antarctican Dollar"
+  },
+  {
+    "name": "Antigua And Barbuda",
+    "isoCode": "AG",
+    "flag": "🇦🇬",
+    "phonecode": "+1-268",
+    "currency": "XCD",
+    "symbol": "$",
+    "commonName": "Dollar"
+  },
+  {
+    "name": "Argentina",
+    "isoCode": "AR",
+    "flag": "🇦🇷",
+    "phonecode": "54",
+    "currency": "ARS",
+    "symbol": "$",
+    "commonName": "Peso"
+  },
+  {
+    "name": "Armenia",
+    "isoCode": "AM",
+    "flag": "🇦🇲",
+    "phonecode": "374",
+    "currency": "AMD",
+    "symbol": "֏",
+    "commonName": "Dram"
+  },
+  {
+    "name": "Aruba",
+    "isoCode": "AW",
+    "flag": "🇦🇼",
+    "phonecode": "297",
+    "currency": "AWG",
+    "symbol": "ƒ",
+    "commonName": "Florin"
+  },
+  {
+    "name": "Australia",
+    "isoCode": "AU",
+    "flag": "🇦🇺",
+    "phonecode": "61",
+    "currency": "AUD",
+    "symbol": "$",
+    "commonName": "Dollar"
+  },
+  {
+    "name": "Austria",
+    "isoCode": "AT",
+    "flag": "🇦🇹",
+    "phonecode": "43",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "Azerbaijan",
+    "isoCode": "AZ",
+    "flag": "🇦🇿",
+    "phonecode": "994",
+    "currency": "AZN",
+    "symbol": "₼",
+    "commonName": "Manat"
+  },
+  {
+    "name": "The Bahamas",
+    "isoCode": "BS",
+    "flag": "🇧🇸",
+    "phonecode": "+1-242",
+    "currency": "BSD",
+    "symbol": "$",
+    "commonName": "Dollar"
+  },
+  {
+    "name": "Bahrain",
+    "isoCode": "BH",
+    "flag": "🇧🇭",
+    "phonecode": "973",
+    "currency": "BHD",
+    "symbol": ".د.ب",
+    "commonName": "Dinar"
+  },
+  {
+    "name": "Bangladesh",
+    "isoCode": "BD",
+    "flag": "🇧🇩",
+    "phonecode": "880",
+    "currency": "BDT",
+    "symbol": "৳",
+    "commonName": "Taka"
+  },
+  {
+    "name": "Barbados",
+    "isoCode": "BB",
+    "flag": "🇧🇧",
+    "phonecode": "+1-246",
+    "currency": "BBD",
+    "symbol": "$",
+    "commonName": "Dollar"
+  },
+  {
+    "name": "Belarus",
+    "isoCode": "BY",
+    "flag": "🇧🇾",
+    "phonecode": "375",
+    "currency": "BYN",
+    "symbol": "Br",
+    "commonName": "Ruble"
+  },
+  {
+    "name": "Belgium",
+    "isoCode": "BE",
+    "flag": "🇧🇪",
+    "phonecode": "32",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "Belize",
+    "isoCode": "BZ",
+    "flag": "🇧🇿",
+    "phonecode": "501",
+    "currency": "BZD",
+    "symbol": "$",
+    "commonName": "Dollar"
+  },
+  {
+    "name": "Benin",
+    "isoCode": "BJ",
+    "flag": "🇧🇯",
+    "phonecode": "229",
+    "currency": "XOF",
+    "symbol": "CFA",
+    "commonName": "CFA Franc"
+  },
+  {
+    "name": "Bermuda",
+    "isoCode": "BM",
+    "flag": "🇧🇲",
+    "phonecode": "+1-441",
+    "currency": "BMD",
+    "symbol": "$",
+    "commonName": "Dollar"
+  },
+  {
+    "name": "Bhutan",
+    "isoCode": "BT",
+    "flag": "🇧🇹",
+    "phonecode": "975",
+    "currency": "BTN",
+    "symbol": "Nu.",
+    "commonName": "Ngultrum"
+  },
+  {
+    "name": "Bolivia",
+    "isoCode": "BO",
+    "flag": "🇧🇴",
+    "phonecode": "591",
+    "currency": "BOB",
+    "symbol": "Bs.",
+    "commonName": "Boliviano"
+  },
+  {
+    "name": "Bosnia and Herzegovina",
+    "isoCode": "BA",
+    "flag": "🇧🇦",
+    "phonecode": "387",
+    "currency": "BAM",
+    "symbol": "KM",
+    "commonName": "Convertible Mark"
+  },
+  {
+    "name": "Botswana",
+    "isoCode": "BW",
+    "flag": "🇧🇼",
+    "phonecode": "267",
+    "currency": "BWP",
+    "symbol": "P",
+    "commonName": "Pula"
+  },
+  {
+    "name": "Bouvet Island",
+    "isoCode": "BV",
+    "flag": "🇧🇻",
+    "phonecode": "0055",
+    "currency": "NOK",
+    "symbol": "kr",
+    "commonName": "Krone"
+  },
+  {
+    "name": "Brazil",
+    "isoCode": "BR",
+    "flag": "🇧🇷",
+    "phonecode": "55",
+    "currency": "BRL",
+    "symbol": "R$",
+    "commonName": "Real"
+  },
+  {
+    "name": "British Indian Ocean Territory",
+    "isoCode": "IO",
+    "flag": "🇮🇴",
+    "phonecode": "246",
+    "currency": "USD",
+    "symbol": "$",
+    "commonName": "Dollar"
+  },
+  {
+    "name": "Brunei",
+    "isoCode": "BN",
+    "flag": "🇧🇳",
+    "phonecode": "673",
+    "currency": "BND",
+    "symbol": "$",
+    "commonName": "Dollar"
+  },
+  {
+    "name": "Bulgaria",
+    "isoCode": "BG",
+    "flag": "🇧🇬",
+    "phonecode": "359",
+    "currency": "BGN",
+    "symbol": "лв",
+    "commonName": "Lev"
+  },
+  {
+    "name": "Burkina Faso",
+    "isoCode": "BF",
+    "flag": "🇧🇫",
+    "phonecode": "226",
+    "currency": "XOF",
+    "symbol": "CFA",
+    "commonName": "CFA Franc"
+  },
+  {
+    "name": "Burundi",
+    "isoCode": "BI",
+    "flag": "🇧🇮",
+    "phonecode": "257",
+    "currency": "BIF",
+    "symbol": "FBu",
+    "commonName": "Franc"
+  },
+  {
+    "name": "Cambodia",
+    "isoCode": "KH",
+    "flag": "🇰🇭",
+    "phonecode": "855",
+    "currency": "KHR",
+    "symbol": "៛",
+    "commonName": "Riel"
+  },
+  {
+    "name": "Cameroon",
+    "isoCode": "CM",
+    "flag": "🇨🇲",
+    "phonecode": "237",
+    "currency": "XAF",
+    "symbol": "CFA",
+    "commonName": "CFA Franc"
+  },
+  {
+    "name": "Canada",
+    "isoCode": "CA",
+    "flag": "🇨🇦",
+    "phonecode": "1",
+    "currency": "CAD",
+    "symbol": "$",
+    "commonName": "Dollar"
+  },
+  {
+    "name": "Cape Verde",
+    "isoCode": "CV",
+    "flag": "🇨🇻",
+    "phonecode": "238",
+    "currency": "CVE",
+    "symbol": "$",
+    "commonName": "Escudo"
+  },
+  {
+    "name": "Cayman Islands",
+    "isoCode": "KY",
+    "flag": "🇰🇾",
+    "phonecode": "+1-345",
+    "currency": "KYD",
+    "symbol": "$",
+    "commonName": "Dollar"
+  },
+  {
+    "name": "Central African Republic",
+    "isoCode": "CF",
+    "flag": "🇨🇫",
+    "phonecode": "236",
+    "currency": "XAF",
+    "symbol": "CFA",
+    "commonName": "CFA Franc"
+  },
+  {
+    "name": "Chad",
+    "isoCode": "TD",
+    "flag": "🇹🇩",
+    "phonecode": "235",
+    "currency": "XAF",
+    "symbol": "CFA",
+    "commonName": "CFA Franc"
+  },
+  {
+    "name": "Chile",
+    "isoCode": "CL",
+    "flag": "🇨🇱",
+    "phonecode": "56",
+    "currency": "CLP",
+    "symbol": "$",
+    "commonName": "Peso"
+  },
+  {
+    "name": "China",
+    "isoCode": "CN",
+    "flag": "🇨🇳",
+    "phonecode": "86",
+    "currency": "CNY",
+    "symbol": "¥",
+    "commonName": "Yuan"
+  },
+  {
+    "name": "Christmas Island",
+    "isoCode": "CX",
+    "flag": "🇨🇽",
+    "phonecode": "61",
+    "currency": "AUD",
+    "symbol": "$",
+    "commonName": "Dollar"
+  },
+  {
+    "name": "Cocos (Keeling) Islands",
+    "isoCode": "CC",
+    "flag": "🇨🇨",
+    "phonecode": "61",
+    "currency": "AUD",
+    "symbol": "$",
+    "commonName": "Dollar"
+  },
+  {
+    "name": "Colombia",
+    "isoCode": "CO",
+    "flag": "🇨🇴",
+    "phonecode": "57",
+    "currency": "COP",
+    "symbol": "$",
+    "commonName": "Peso"
+  },
+  {
+    "name": "Comoros",
+    "isoCode": "KM",
+    "flag": "🇰🇲",
+    "phonecode": "269",
+    "currency": "KMF",
+    "symbol": "CF",
+    "commonName": "Franc"
+  },
+  {
+    "name": "Congo",
+    "isoCode": "CG",
+    "flag": "🇨🇬",
+    "phonecode": "242",
+    "currency": "XAF",
+    "symbol": "FCFA",
+    "commonName": "Franc"
+  },
+  {
+    "name": "Democratic Republic of the Congo",
+    "isoCode": "CD",
+    "flag": "🇨🇩",
+    "phonecode": "243",
+    "currency": "CDF",
+    "symbol": "FC",
+    "commonName": "Franc"
+  },
+  {
+    "name": "Cook Islands",
+    "isoCode": "CK",
+    "flag": "🇨🇰",
+    "phonecode": "682",
+    "currency": "NZD",
+    "symbol": "$",
+    "commonName": "Dollar"
+  },
+  {
+    "name": "Costa Rica",
+    "isoCode": "CR",
+    "flag": "🇨🇷",
+    "phonecode": "506",
+    "currency": "CRC",
+    "symbol": "₡",
+    "commonName": "Colon"
+  },
+  {
+    "name": "Cote D'Ivoire (Ivory Coast)",
+    "isoCode": "CI",
+    "flag": "🇨🇮",
+    "phonecode": "225",
+    "currency": "XOF",
+    "symbol": "CFA",
+    "commonName": "Franc"
+  },
+  {
+    "name": "Croatia",
+    "isoCode": "HR",
+    "flag": "🇭🇷",
+    "phonecode": "385",
+    "currency": "HRK",
+    "symbol": "kn",
+    "commonName": "Kuna"
+  },
+  {
+    "name": "Cuba",
+    "isoCode": "CU",
+    "flag": "🇨🇺",
+    "phonecode": "53",
+    "currency": "CUP",
+    "symbol": "$",
+    "commonName": "Peso"
+  },
+  {
+    "name": "Cyprus",
+    "isoCode": "CY",
+    "flag": "🇨🇾",
+    "phonecode": "357",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "Czech Republic",
+    "isoCode": "CZ",
+    "flag": "🇨🇿",
+    "phonecode": "420",
+    "currency": "CZK",
+    "symbol": "Kč",
+    "commonName": "Crown"
+  },
+  {
+    "name": "Denmark",
+    "isoCode": "DK",
+    "flag": "🇩🇰",
+    "phonecode": "45",
+    "currency": "DKK",
+    "symbol": "kr",
+    "commonName": "Krone"
+  },
+  {
+    "name": "Djibouti",
+    "isoCode": "DJ",
+    "flag": "🇩🇯",
+    "phonecode": "253",
+    "currency": "DJF",
+    "symbol": "Fdj",
+    "commonName": "Franc"
+  },
+  {
+    "name": "Dominica",
+    "isoCode": "DM",
+    "flag": "🇩🇲",
+    "phonecode": "+1-767",
+    "currency": "XCD",
+    "symbol": "$",
+    "commonName": "Dollar"
+  },
+  {
+    "name": "Dominican Republic",
+    "isoCode": "DO",
+    "flag": "🇩🇴",
+    "phonecode": "+1-809 and 1-829",
+    "currency": "DOP",
+    "symbol": "RD$",
+    "commonName": "Peso"
+  },
+  {
+    "name": "East Timor",
+    "isoCode": "TL",
+    "flag": "🇹🇱",
+    "phonecode": "670",
+    "currency": "USD",
+    "symbol": "$",
+    "commonName": "Dollar"
+  },
+  {
+    "name": "Ecuador",
+    "isoCode": "EC",
+    "flag": "🇪🇨",
+    "phonecode": "593",
+    "currency": "USD",
+    "symbol": "$",
+    "commonName": "Dollar"
+  },
+  {
+    "name": "Egypt",
+    "isoCode": "EG",
+    "flag": "🇪🇬",
+    "phonecode": "20",
+    "currency": "EGP",
+    "symbol": "£",
+    "commonName": "Pound"
+  },
+  {
+    "name": "El Salvador",
+    "isoCode": "SV",
+    "flag": "🇸🇻",
+    "phonecode": "503",
+    "currency": "USD",
+    "symbol": "$",
+    "commonName": "Dollar"
+  },
+  {
+    "name": "Equatorial Guinea",
+    "isoCode": "GQ",
+    "flag": "🇬🇶",
+    "phonecode": "240",
+    "currency": "XAF",
+    "symbol": "FCFA",
+    "commonName": "Franc"
+  },
+  {
+    "name": "Eritrea",
+    "isoCode": "ER",
+    "flag": "🇪🇷",
+    "phonecode": "291",
+    "currency": "ERN",
+    "symbol": "Nfk",
+    "commonName": "Nakfa"
+  },
+  {
+    "name": "Estonia",
+    "isoCode": "EE",
+    "flag": "🇪🇪",
+    "phonecode": "372",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "Ethiopia",
+    "isoCode": "ET",
+    "flag": "🇪🇹",
+    "phonecode": "251",
+    "currency": "ETB",
+    "symbol": "Br",
+    "commonName": "Birr"
+  },
+  {
+    "name": "Falkland Islands",
+    "isoCode": "FK",
+    "flag": "🇫🇰",
+    "phonecode": "500",
+    "currency": "FKP",
+    "symbol": "£",
+    "commonName": "Pound"
+  },
+  {
+    "name": "Faroe Islands",
+    "isoCode": "FO",
+    "flag": "🇫🇴",
+    "phonecode": "298",
+    "currency": "DKK",
+    "symbol": "kr",
+    "commonName": "Krone"
+  },
+  {
+    "name": "Fiji Islands",
+    "isoCode": "FJ",
+    "flag": "🇫🇯",
+    "phonecode": "679",
+    "currency": "FJD",
+    "symbol": "$",
+    "commonName": "Dollar"
+  },
+  {
+    "name": "Finland",
+    "isoCode": "FI",
+    "flag": "🇫🇮",
+    "phonecode": "358",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "France",
+    "isoCode": "FR",
+    "flag": "🇫🇷",
+    "phonecode": "33",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "French Guiana",
+    "isoCode": "GF",
+    "flag": "🇬🇫",
+    "phonecode": "594",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "French Polynesia",
+    "isoCode": "PF",
+    "flag": "🇵🇫",
+    "phonecode": "689",
+    "currency": "XPF",
+    "symbol": "₣",
+    "commonName": "Franc"
+  },
+  {
+    "name": "French Southern Territories",
+    "isoCode": "TF",
+    "flag": "🇹🇫",
+    "phonecode": "262",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "Gabon",
+    "isoCode": "GA",
+    "flag": "🇬🇦",
+    "phonecode": "241",
+    "currency": "XAF",
+    "symbol": "FCFA",
+    "commonName": "Franc"
+  },
+  {
+    "name": "The Gambia",
+    "isoCode": "GM",
+    "flag": "🇬🇲",
+    "phonecode": "220",
+    "currency": "GMD",
+    "symbol": "D",
+    "commonName": "Dalasi"
+  },
+  {
+    "name": "Georgia",
+    "isoCode": "GE",
+    "flag": "🇬🇪",
+    "phonecode": "995",
+    "currency": "GEL",
+    "symbol": "₾",
+    "commonName": "Lari"
+  },
+  {
+    "name": "Germany",
+    "isoCode": "DE",
+    "flag": "🇩🇪",
+    "phonecode": "49",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "Ghana",
+    "isoCode": "GH",
+    "flag": "🇬🇭",
+    "phonecode": "233",
+    "currency": "GHS",
+    "symbol": "₵",
+    "commonName": "Cedi"
+  },
+  {
+    "name": "Gibraltar",
+    "isoCode": "GI",
+    "flag": "🇬🇮",
+    "phonecode": "350",
+    "currency": "GIP",
+    "symbol": "£",
+    "commonName": "Pound"
+  },
+  {
+    "name": "Greece",
+    "isoCode": "GR",
+    "flag": "🇬🇷",
+    "phonecode": "30",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "Greenland",
+    "isoCode": "GL",
+    "flag": "🇬🇱",
+    "phonecode": "299",
+    "currency": "DKK",
+    "symbol": "kr",
+    "commonName": "Krone"
+  },
+  {
+    "name": "Grenada",
+    "isoCode": "GD",
+    "flag": "🇬🇩",
+    "phonecode": "+1-473",
+    "currency": "XCD",
+    "symbol": "$",
+    "commonName": "Dollar"
+  },
+  {
+    "name": "Guadeloupe",
+    "isoCode": "GP",
+    "flag": "🇬🇵",
+    "phonecode": "590",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "Guam",
+    "isoCode": "GU",
+    "flag": "🇬🇺",
+    "phonecode": "+1-671",
+    "currency": "USD",
+    "symbol": "$",
+    "commonName": "Dollar"
+  },
+  {
+    "name": "Guatemala",
+    "isoCode": "GT",
+    "flag": "🇬🇹",
+    "phonecode": "502",
+    "currency": "GTQ",
+    "symbol": "Q",
+    "commonName": "Quetzal"
+  },
+  {
+    "name": "Guernsey and Alderney",
+    "isoCode": "GG",
+    "flag": "🇬🇬",
+    "phonecode": "+44-1481",
+    "currency": "GBP",
+    "symbol": "£",
+    "commonName": "Pound"
+  },
+  {
+    "name": "Guinea",
+    "isoCode": "GN",
+    "flag": "🇬🇳",
+    "phonecode": "224",
+    "currency": "GNF",
+    "symbol": "FG",
+    "commonName": "Franc"
+  },
+  {
+    "name": "Guinea-Bissau",
+    "isoCode": "GW",
+    "flag": "🇬🇼",
+    "phonecode": "245",
+    "currency": "XOF",
+    "symbol": "CFA",
+    "commonName": "Franc"
+  },
+  {
+    "name": "Guyana",
+    "isoCode": "GY",
+    "flag": "🇬🇾",
+    "phonecode": "592",
+    "currency": "GYD",
+    "symbol": "$",
+    "commonName": "Dollar"
+  },
+  {
+    "name": "Haiti",
+    "isoCode": "HT",
+    "flag": "🇭🇹",
+    "phonecode": "509",
+    "currency": "HTG",
+    "symbol": "G",
+    "commonName": "Gourde"
+  },
+  {
+    "name": "Heard Island and McDonald Islands",
+    "isoCode": "HM",
+    "flag": "🇭🇲",
+    "phonecode": "672",
+    "currency": "AUD",
+    "symbol": "$",
+    "commonName": "Dollar"
+  },
+  {
+    "name": "Honduras",
+    "isoCode": "HN",
+    "flag": "🇭🇳",
+    "phonecode": "504",
+    "currency": "HNL",
+    "symbol": "L",
+    "commonName": "Lempira"
+  },
+  {
+    "name": "Hong Kong S.A.R.",
+    "isoCode": "HK",
+    "flag": "🇭🇰",
+    "phonecode": "852",
+    "currency": "HKD",
+    "symbol": "$",
+    "commonName": "Dollar"
+  },
+  {
+    "name": "Hungary",
+    "isoCode": "HU",
+    "flag": "🇭🇺",
+    "phonecode": "36",
+    "currency": "HUF",
+    "symbol": "Ft",
+    "commonName": "Forint"
+  },
+  {
+    "name": "Iceland",
+    "isoCode": "IS",
+    "flag": "🇮🇸",
+    "phonecode": "354",
+    "currency": "ISK",
+    "symbol": "kr",
+    "commonName": "Krona"
+  },
+  {
+    "name": "India",
+    "isoCode": "IN",
+    "flag": "🇮🇳",
+    "phonecode": "91",
+    "currency": "INR",
+    "symbol": "₹",
+    "commonName": "Rupee"
+  },
+  {
+    "name": "Indonesia",
+    "isoCode": "ID",
+    "flag": "🇮🇩",
+    "phonecode": "62",
+    "currency": "IDR",
+    "symbol": "Rp",
+    "commonName": "Rupiah"
+  },
+  {
+    "name": "Iran",
+    "isoCode": "IR",
+    "flag": "🇮🇷",
+    "phonecode": "98",
+    "currency": "IRR",
+    "symbol": "﷼",
+    "commonName": "Rial"
+  },
+  {
+    "name": "Iraq",
+    "isoCode": "IQ",
+    "flag": "🇮🇶",
+    "phonecode": "964",
+    "currency": "IQD",
+    "symbol": "ع.د",
+    "commonName": "Dinar"
+  },
+  {
+    "name": "Ireland",
+    "isoCode": "IE",
+    "flag": "🇮🇪",
+    "phonecode": "353",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "Israel",
+    "isoCode": "IL",
+    "flag": "🇮🇱",
+    "phonecode": "972",
+    "currency": "ILS",
+    "symbol": "₪",
+    "commonName": "Shekel"
+  },
+  {
+    "name": "Italy",
+    "isoCode": "IT",
+    "flag": "🇮🇹",
+    "phonecode": "39",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "Jamaica",
+    "isoCode": "JM",
+    "flag": "🇯🇲",
+    "phonecode": "+1-876",
+    "currency": "JMD",
+    "symbol": "$",
+    "commonName": "Dollar"
+  },
+  {
+    "name": "Japan",
+    "isoCode": "JP",
+    "flag": "🇯🇵",
+    "phonecode": "81",
+    "currency": "JPY",
+    "symbol": "¥",
+    "commonName": "Yen"
+  },
+  {
+    "name": "Jersey",
+    "isoCode": "JE",
+    "flag": "🇯🇪",
+    "phonecode": "+44-1534",
+    "currency": "GBP",
+    "symbol": "£",
+    "commonName": "Pound"
+  },
+  {
+    "name": "Jordan",
+    "isoCode": "JO",
+    "flag": "🇯🇴",
+    "phonecode": "962",
+    "currency": "JOD",
+    "symbol": "د.ا",
+    "commonName": "Dinar"
+  },
+  {
+    "name": "Kazakhstan",
+    "isoCode": "KZ",
+    "flag": "🇰🇿",
+    "phonecode": "7",
+    "currency": "KZT",
+    "symbol": "₸",
+    "commonName": "Tenge"
+  },
+  {
+    "name": "Kenya",
+    "isoCode": "KE",
+    "flag": "🇰🇪",
+    "phonecode": "254",
+    "currency": "KES",
+    "symbol": "KSh",
+    "commonName": "Shilling"
+  },
+  {
+    "name": "Kiribati",
+    "isoCode": "KI",
+    "flag": "🇰🇮",
+    "phonecode": "686",
+    "currency": "AUD",
+    "symbol": "$",
+    "commonName": "Dollar"
+  },
+  {
+    "name": "North Korea",
+    "isoCode": "KP",
+    "flag": "🇰🇵",
+    "phonecode": "850",
+    "currency": "KPW",
+    "symbol": "₩",
+    "commonName": "Won"
+  },
+  {
+    "name": "South Korea",
+    "isoCode": "KR",
+    "flag": "🇰🇷",
+    "phonecode": "82",
+    "currency": "KRW",
+    "symbol": "₩",
+    "commonName": "Won"
+  },
+  {
+    "name": "Kuwait",
+    "isoCode": "KW",
+    "flag": "🇰🇼",
+    "phonecode": "965",
+    "currency": "KWD",
+    "symbol": "د.ك",
+    "commonName": "Dinar"
+  },
+  {
+    "name": "Kyrgyzstan",
+    "isoCode": "KG",
+    "flag": "🇰🇬",
+    "phonecode": "996",
+    "currency": "KGS",
+    "symbol": "лв",
+    "commonName": "Som"
+  },
+  {
+    "name": "Laos",
+    "isoCode": "LA",
+    "flag": "🇱🇦",
+    "phonecode": "856",
+    "currency": "LAK",
+    "symbol": "₭",
+    "commonName": "Kip"
+  },
+  {
+    "name": "Latvia",
+    "isoCode": "LV",
+    "flag": "🇱🇻",
+    "phonecode": "371",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "Lebanon",
+    "isoCode": "LB",
+    "flag": "🇱🇧",
+    "phonecode": "961",
+    "currency": "LBP",
+    "symbol": "ل.ل",
+    "commonName": "Pound"
+  },
+  {
+    "name": "Lesotho",
+    "isoCode": "LS",
+    "flag": "🇱🇸",
+    "phonecode": "266",
+    "currency": "LSL",
+    "symbol": "M",
+    "commonName": "Loti"
+  },
+  {
+    "name": "Liberia",
+    "isoCode": "LR",
+    "flag": "🇱🇷",
+    "phonecode": "231",
+    "currency": "LRD",
+    "symbol": "$",
+    "commonName": "Dollar"
+  },
+  {
+    "name": "Libya",
+    "isoCode": "LY",
+    "flag": "🇱🇾",
+    "phonecode": "218",
+    "currency": "LYD",
+    "symbol": "ل.د",
+    "commonName": "Dinar"
+  },
+  {
+    "name": "Liechtenstein",
+    "isoCode": "LI",
+    "flag": "🇱🇮",
+    "phonecode": "423",
+    "currency": "CHF",
+    "symbol": "CHF",
+    "commonName": "Franc"
+  },
+  {
+    "name": "Lithuania",
+    "isoCode": "LT",
+    "flag": "🇱🇹",
+    "phonecode": "370",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "Luxembourg",
+    "isoCode": "LU",
+    "flag": "🇱🇺",
+    "phonecode": "352",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "Macau S.A.R.",
+    "isoCode": "MO",
+    "flag": "🇲🇴",
+    "phonecode": "853",
+    "currency": "MOP",
+    "symbol": "MOP$",
+    "commonName": "Pataca"
+  },
+  {
+    "name": "Macedonia",
+    "isoCode": "MK",
+    "flag": "🇲🇰",
+    "phonecode": "389",
+    "currency": "MKD",
+    "symbol": "ден",
+    "commonName": "Denar"
+  },
+  {
+    "name": "Madagascar",
+    "isoCode": "MG",
+    "flag": "🇲🇬",
+    "phonecode": "261",
+    "currency": "MGA",
+    "symbol": "Ar",
+    "commonName": "Ariary"
+  },
+  {
+    "name": "Malawi",
+    "isoCode": "MW",
+    "flag": "🇲🇼",
+    "phonecode": "265",
+    "currency": "MWK",
+    "symbol": "MK",
+    "commonName": "Kwacha"
+  },
+  {
+    "name": "Malaysia",
+    "isoCode": "MY",
+    "flag": "🇲🇾",
+    "phonecode": "60",
+    "currency": "MYR",
+    "symbol": "RM",
+    "commonName": "Ringgit"
+  },
+  {
+    "name": "Maldives",
+    "isoCode": "MV",
+    "flag": "🇲🇻",
+    "phonecode": "960",
+    "currency": "MVR",
+    "symbol": "MVR",
+    "commonName": "Rufiyaa"
+  },
+  {
+    "name": "Mali",
+    "isoCode": "ML",
+    "flag": "🇲🇱",
+    "phonecode": "223",
+    "currency": "XOF",
+    "symbol": "CFA",
+    "commonName": "Franc"
+  },
+  {
+    "name": "Malta",
+    "isoCode": "MT",
+    "flag": "🇲🇹",
+    "phonecode": "356",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "Man (Isle of)",
+    "isoCode": "IM",
+    "flag": "🇮🇲",
+    "phonecode": "+44-1624",
+    "currency": "GBP",
+    "symbol": "£",
+    "commonName": "Pound Sterling"
+  },
+  {
+    "name": "Marshall Islands",
+    "isoCode": "MH",
+    "flag": "🇲🇭",
+    "phonecode": "692",
+    "currency": "USD",
+    "symbol": "$",
+    "commonName": "United States Dollar"
+  },
+  {
+    "name": "Martinique",
+    "isoCode": "MQ",
+    "flag": "🇲🇶",
+    "phonecode": "596",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "Mauritania",
+    "isoCode": "MR",
+    "flag": "🇲🇷",
+    "phonecode": "222",
+    "currency": "MRO",
+    "symbol": "UM",
+    "commonName": "Ouguiya"
+  },
+  {
+    "name": "Mauritius",
+    "isoCode": "MU",
+    "flag": "🇲🇺",
+    "phonecode": "230",
+    "currency": "MUR",
+    "symbol": "₨",
+    "commonName": "Rupee"
+  },
+  {
+    "name": "Mayotte",
+    "isoCode": "YT",
+    "flag": "🇾🇹",
+    "phonecode": "262",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "Mexico",
+    "isoCode": "MX",
+    "flag": "🇲🇽",
+    "phonecode": "52",
+    "currency": "MXN",
+    "symbol": "$",
+    "commonName": "Mexican Peso"
+  },
+  {
+    "name": "Micronesia",
+    "isoCode": "FM",
+    "flag": "🇫🇲",
+    "phonecode": "691",
+    "currency": "USD",
+    "symbol": "$",
+    "commonName": "United States Dollar"
+  },
+  {
+    "name": "Moldova",
+    "isoCode": "MD",
+    "flag": "🇲🇩",
+    "phonecode": "373",
+    "currency": "MDL",
+    "symbol": "L",
+    "commonName": "Moldovan Leu"
+  },
+  {
+    "name": "Monaco",
+    "isoCode": "MC",
+    "flag": "🇲🇨",
+    "phonecode": "377",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "Mongolia",
+    "isoCode": "MN",
+    "flag": "🇲🇳",
+    "phonecode": "976",
+    "currency": "MNT",
+    "symbol": "₮",
+    "commonName": "Tögrög"
+  },
+  {
+    "name": "Montenegro",
+    "isoCode": "ME",
+    "flag": "🇲🇪",
+    "phonecode": "382",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "Montserrat",
+    "isoCode": "MS",
+    "flag": "🇲🇸",
+    "phonecode": "+1-664",
+    "currency": "XCD",
+    "symbol": "$",
+    "commonName": "East Caribbean Dollar"
+  },
+  {
+    "name": "Morocco",
+    "isoCode": "MA",
+    "flag": "🇲🇦",
+    "phonecode": "212",
+    "currency": "MAD",
+    "symbol": "د.م.",
+    "commonName": "Moroccan Dirham"
+  },
+  {
+    "name": "Mozambique",
+    "isoCode": "MZ",
+    "flag": "🇲🇿",
+    "phonecode": "258",
+    "currency": "MZN",
+    "symbol": "MT",
+    "commonName": "Metical"
+  },
+  {
+    "name": "Myanmar",
+    "isoCode": "MM",
+    "flag": "🇲🇲",
+    "phonecode": "95",
+    "currency": "MMK",
+    "symbol": "K",
+    "commonName": "Kyat"
+  },
+  {
+    "name": "Namibia",
+    "isoCode": "NA",
+    "flag": "🇳🇦",
+    "phonecode": "264",
+    "currency": "NAD",
+    "symbol": "$",
+    "commonName": "Namibian Dollar"
+  },
+  {
+    "name": "Nauru",
+    "isoCode": "NR",
+    "flag": "🇳🇷",
+    "phonecode": "674",
+    "currency": "AUD",
+    "symbol": "$",
+    "commonName": "Australian Dollar"
+  },
+  {
+    "name": "Nepal",
+    "isoCode": "NP",
+    "flag": "🇳🇵",
+    "phonecode": "977",
+    "currency": "NPR",
+    "symbol": "Rs",
+    "commonName": "Nepalese Rupee"
+  },
+  {
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "isoCode": "BQ",
+    "flag": "🇧🇶",
+    "phonecode": "599",
+    "currency": "USD",
+    "symbol": "$",
+    "commonName": "United States Dollar"
+  },
+  {
+    "name": "Netherlands",
+    "isoCode": "NL",
+    "flag": "🇳🇱",
+    "phonecode": "31",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "New Caledonia",
+    "isoCode": "NC",
+    "flag": "🇳🇨",
+    "phonecode": "687",
+    "currency": "XPF",
+    "symbol": "₣",
+    "commonName": "CFP Franc"
+  },
+  {
+    "name": "New Zealand",
+    "isoCode": "NZ",
+    "flag": "🇳🇿",
+    "phonecode": "64",
+    "currency": "NZD",
+    "symbol": "$",
+    "commonName": "New Zealand Dollar"
+  },
+  {
+    "name": "Nicaragua",
+    "isoCode": "NI",
+    "flag": "🇳🇮",
+    "phonecode": "505",
+    "currency": "NIO",
+    "symbol": "C$",
+    "commonName": "Córdoba"
+  },
+  {
+    "name": "Niger",
+    "isoCode": "NE",
+    "flag": "🇳🇪",
+    "phonecode": "227",
+    "currency": "XOF",
+    "symbol": "₣",
+    "commonName": "West African Franc"
+  },
+  {
+    "name": "Nigeria",
+    "isoCode": "NG",
+    "flag": "🇳🇬",
+    "phonecode": "234",
+    "currency": "NGN",
+    "symbol": "₦",
+    "commonName": "Naira"
+  },
+  {
+    "name": "Niue",
+    "isoCode": "NU",
+    "flag": "🇳🇺",
+    "phonecode": "683",
+    "currency": "NZD",
+    "symbol": "$",
+    "commonName": "New Zealand Dollar"
+  },
+  {
+    "name": "Norfolk Island",
+    "isoCode": "NF",
+    "flag": "🇳🇫",
+    "phonecode": "672",
+    "currency": "AUD",
+    "symbol": "$",
+    "commonName": "Australian Dollar"
+  },
+  {
+    "name": "North Macedonia",
+    "isoCode": "MK",
+    "flag": "🇲🇰",
+    "phonecode": "389",
+    "currency": "MKD",
+    "symbol": "ден",
+    "commonName": "Macedonian Denar"
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "isoCode": "MP",
+    "flag": "🇲🇵",
+    "phonecode": "1-670",
+    "currency": "USD",
+    "symbol": "$",
+    "commonName": "United States Dollar"
+  },
+  {
+    "name": "Norway",
+    "isoCode": "NO",
+    "flag": "🇳🇴",
+    "phonecode": "47",
+    "currency": "NOK",
+    "symbol": "kr",
+    "commonName": "Norwegian Krone"
+  },
+  {
+    "name": "Oman",
+    "isoCode": "OM",
+    "flag": "🇴🇲",
+    "phonecode": "968",
+    "currency": "OMR",
+    "symbol": "ر.ع.",
+    "commonName": "Rial"
+  },
+  {
+    "name": "Pakistan",
+    "isoCode": "PK",
+    "flag": "🇵🇰",
+    "phonecode": "92",
+    "currency": "PKR",
+    "symbol": "₨",
+    "commonName": "Pakistani Rupee"
+  },
+  {
+    "name": "Palau",
+    "isoCode": "PW",
+    "flag": "🇵🇼",
+    "phonecode": "680",
+    "currency": "USD",
+    "symbol": "$",
+    "commonName": "United States Dollar"
+  },
+  {
+    "name": "Palestine",
+    "isoCode": "PS",
+    "flag": "🇵🇸",
+    "phonecode": "970",
+    "currency": "ILS",
+    "symbol": "₪",
+    "commonName": "Israeli New Shekel"
+  },
+  {
+    "name": "Panama",
+    "isoCode": "PA",
+    "flag": "🇵🇦",
+    "phonecode": "507",
+    "currency": "PAB",
+    "symbol": "B/.",
+    "commonName": "Balboa"
+  },
+  {
+    "name": "Papua New Guinea",
+    "isoCode": "PG",
+    "flag": "🇵🇬",
+    "phonecode": "675",
+    "currency": "PGK",
+    "symbol": "K",
+    "commonName": "Kina"
+  },
+  {
+    "name": "Paraguay",
+    "isoCode": "PY",
+    "flag": "🇵🇾",
+    "phonecode": "595",
+    "currency": "PYG",
+    "symbol": "Gs",
+    "commonName": "Guaraní"
+  },
+  {
+    "name": "Peru",
+    "isoCode": "PE",
+    "flag": "🇵🇪",
+    "phonecode": "51",
+    "currency": "PEN",
+    "symbol": "S/.",
+    "commonName": "Sol"
+  },
+  {
+    "name": "Philippines",
+    "isoCode": "PH",
+    "flag": "🇵🇭",
+    "phonecode": "63",
+    "currency": "PHP",
+    "symbol": "₱",
+    "commonName": "Philippine Peso"
+  },
+  {
+    "name": "Pitcairn",
+    "isoCode": "PN",
+    "flag": "🇵🇳",
+    "phonecode": "64",
+    "currency": "NZD",
+    "symbol": "$",
+    "commonName": "New Zealand Dollar"
+  },
+  {
+    "name": "Poland",
+    "isoCode": "PL",
+    "flag": "🇵🇱",
+    "phonecode": "48",
+    "currency": "PLN",
+    "symbol": "zł",
+    "commonName": "Polish Złoty"
+  },
+  {
+    "name": "Portugal",
+    "isoCode": "PT",
+    "flag": "🇵🇹",
+    "phonecode": "351",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "Puerto Rico",
+    "isoCode": "PR",
+    "flag": "🇵🇷",
+    "phonecode": "+1-787",
+    "currency": "USD",
+    "symbol": "$",
+    "commonName": "United States Dollar"
+  },
+  {
+    "name": "Qatar",
+    "isoCode": "QA",
+    "flag": "🇶🇦",
+    "phonecode": "974",
+    "currency": "QAR",
+    "symbol": "ر.ق.",
+    "commonName": "Qatari Rial"
+  },
+  {
+    "name": "Réunion",
+    "isoCode": "RE",
+    "flag": "🇷🇪",
+    "phonecode": "262",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "Romania",
+    "isoCode": "RO",
+    "flag": "🇷🇴",
+    "phonecode": "40",
+    "currency": "RON",
+    "symbol": "lei",
+    "commonName": "Romanian Leu"
+  },
+  {
+    "name": "Russia",
+    "isoCode": "RU",
+    "flag": "🇷🇺",
+    "phonecode": "7",
+    "currency": "RUB",
+    "symbol": "₽",
+    "commonName": "Russian Ruble"
+  },
+  {
+    "name": "Rwanda",
+    "isoCode": "RW",
+    "flag": "🇷🇼",
+    "phonecode": "250",
+    "currency": "RWF",
+    "symbol": "RF",
+    "commonName": "Rwandan Franc"
+  },
+  {
+    "name": "Saint Barthélemy",
+    "isoCode": "BL",
+    "flag": "🇧🇱",
+    "phonecode": "590",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "Saint Helena",
+    "isoCode": "SH",
+    "flag": "🇸🇭",
+    "phonecode": "290",
+    "currency": "SHP",
+    "symbol": "£",
+    "commonName": "Saint Helena Pound"
+  },
+  {
+    "name": "Saint Kitts and Nevis",
+    "isoCode": "KN",
+    "flag": "🇰🇳",
+    "phonecode": "+1-869",
+    "currency": "XCD",
+    "symbol": "$",
+    "commonName": "East Caribbean Dollar"
+  },
+  {
+    "name": "Saint Lucia",
+    "isoCode": "LC",
+    "flag": "🇱🇨",
+    "phonecode": "+1-758",
+    "currency": "XCD",
+    "symbol": "$",
+    "commonName": "East Caribbean Dollar"
+  },
+  {
+    "name": "Saint Martin (French part)",
+    "isoCode": "MF",
+    "flag": "🇲🇫",
+    "phonecode": "590",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "Saint Pierre and Miquelon",
+    "isoCode": "PM",
+    "flag": "🇵🇲",
+    "phonecode": "508",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "Saint Vincent and the Grenadines",
+    "isoCode": "VC",
+    "flag": "🇻🇨",
+    "phonecode": "+1-784",
+    "currency": "XCD",
+    "symbol": "$",
+    "commonName": "East Caribbean Dollar"
+  },
+  {
+    "name": "Samoa",
+    "isoCode": "WS",
+    "flag": "🇼🇸",
+    "phonecode": "685",
+    "currency": "WST",
+    "symbol": "T",
+    "commonName": "Tala"
+  },
+  {
+    "name": "San Marino",
+    "isoCode": "SM",
+    "flag": "🇸🇲",
+    "phonecode": "378",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "Sao Tome and Principe",
+    "isoCode": "ST",
+    "flag": "🇸🇹",
+    "phonecode": "239",
+    "currency": "STN",
+    "symbol": "Db",
+    "commonName": "Dobra"
+  },
+  {
+    "name": "Saudi Arabia",
+    "isoCode": "SA",
+    "flag": "🇸🇦",
+    "phonecode": "966",
+    "currency": "SAR",
+    "symbol": "ر.س.",
+    "commonName": "Saudi Riyal"
+  },
+  {
+    "name": "Senegal",
+    "isoCode": "SN",
+    "flag": "🇸🇳",
+    "phonecode": "221",
+    "currency": "XOF",
+    "symbol": "₣",
+    "commonName": "West African Franc"
+  },
+  {
+    "name": "Serbia",
+    "isoCode": "RS",
+    "flag": "🇷🇸",
+    "phonecode": "381",
+    "currency": "RSD",
+    "symbol": "дин.",
+    "commonName": "Serbian Dinar"
+  },
+  {
+    "name": "Seychelles",
+    "isoCode": "SC",
+    "flag": "🇸🇨",
+    "phonecode": "248",
+    "currency": "SCR",
+    "symbol": "₨",
+    "commonName": "Seychellois Rupee"
+  },
+  {
+    "name": "Sierra Leone",
+    "isoCode": "SL",
+    "flag": "🇸🇱",
+    "phonecode": "232",
+    "currency": "SLL",
+    "symbol": "Le",
+    "commonName": "Leone"
+  },
+  {
+    "name": "Singapore",
+    "isoCode": "SG",
+    "flag": "🇸🇬",
+    "phonecode": "65",
+    "currency": "SGD",
+    "symbol": "$",
+    "commonName": "Singapore Dollar"
+  },
+  {
+    "name": "Sint Maarten (Dutch part)",
+    "isoCode": "SX",
+    "flag": "🇸🇽",
+    "phonecode": "1-721",
+    "currency": "ANG",
+    "symbol": "ƒ",
+    "commonName": "Netherlands Antillean Guilder"
+  },
+  {
+    "name": "Slovakia",
+    "isoCode": "SK",
+    "flag": "🇸🇰",
+    "phonecode": "421",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "Slovenia",
+    "isoCode": "SI",
+    "flag": "🇸🇮",
+    "phonecode": "386",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "Solomon Islands",
+    "isoCode": "SB",
+    "flag": "🇸🇧",
+    "phonecode": "677",
+    "currency": "AUD",
+    "symbol": "$",
+    "commonName": "Australian Dollar"
+  },
+  {
+    "name": "Somalia",
+    "isoCode": "SO",
+    "flag": "🇸🇴",
+    "phonecode": "252",
+    "currency": "SOS",
+    "symbol": "S",
+    "commonName": "Somali Shilling"
+  },
+  {
+    "name": "South Africa",
+    "isoCode": "ZA",
+    "flag": "🇿🇦",
+    "phonecode": "27",
+    "currency": "ZAR",
+    "symbol": "R",
+    "commonName": "South African Rand"
+  },
+  {
+    "name": "South Korea",
+    "isoCode": "KR",
+    "flag": "🇰🇷",
+    "phonecode": "82",
+    "currency": "KRW",
+    "symbol": "₩",
+    "commonName": "South Korean Won"
+  },
+  {
+    "name": "South Sudan",
+    "isoCode": "SS",
+    "flag": "🇸🇸",
+    "phonecode": "211",
+    "currency": "SSP",
+    "symbol": "£",
+    "commonName": "South Sudanese Pound"
+  },
+  {
+    "name": "Spain",
+    "isoCode": "ES",
+    "flag": "🇪🇸",
+    "phonecode": "34",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "Sri Lanka",
+    "isoCode": "LK",
+    "flag": "🇱🇰",
+    "phonecode": "94",
+    "currency": "LKR",
+    "symbol": "Rs",
+    "commonName": "Sri Lankan Rupee"
+  },
+  {
+    "name": "Sudan",
+    "isoCode": "SD",
+    "flag": "🇸🇩",
+    "phonecode": "249",
+    "currency": "SDG",
+    "symbol": "ج.س.",
+    "commonName": "Sudanese Pound"
+  },
+  {
+    "name": "Suriname",
+    "isoCode": "SR",
+    "flag": "🇸🇷",
+    "phonecode": "597",
+    "currency": "SRD",
+    "symbol": "$",
+    "commonName": "Surinamese Dollar"
+  },
+  {
+    "name": "Svalbard and Jan Mayen",
+    "isoCode": "SJ",
+    "flag": "🇸🇯",
+    "phonecode": "47",
+    "currency": "NOK",
+    "symbol": "kr",
+    "commonName": "Norwegian Krone"
+  },
+  {
+    "name": "Sweden",
+    "isoCode": "SE",
+    "flag": "🇸🇪",
+    "phonecode": "46",
+    "currency": "SEK",
+    "symbol": "kr",
+    "commonName": "Swedish Krona"
+  },
+  {
+    "name": "Switzerland",
+    "isoCode": "CH",
+    "flag": "🇨🇭",
+    "phonecode": "41",
+    "currency": "CHF",
+    "symbol": "CHF",
+    "commonName": "Swiss Franc"
+  },
+  {
+    "name": "Syrian Arab Republic",
+    "isoCode": "SY",
+    "flag": "🇸🇾",
+    "phonecode": "963",
+    "currency": "SYP",
+    "symbol": "£",
+    "commonName": "Syrian Pound"
+  },
+  {
+    "name": "Taiwan",
+    "isoCode": "TW",
+    "flag": "🇹🇼",
+    "phonecode": "886",
+    "currency": "TWD",
+    "symbol": "NT$",
+    "commonName": "New Taiwan Dollar"
+  },
+  {
+    "name": "Tajikistan",
+    "isoCode": "TJ",
+    "flag": "🇹🇯",
+    "phonecode": "992",
+    "currency": "TJS",
+    "symbol": "ЅМ",
+    "commonName": "Somoni"
+  },
+  {
+    "name": "Tanzania",
+    "isoCode": "TZ",
+    "flag": "🇹🇿",
+    "phonecode": "255",
+    "currency": "TZS",
+    "symbol": "TSh",
+    "commonName": "Tanzanian Shilling"
+  },
+  {
+    "name": "Thailand",
+    "isoCode": "TH",
+    "flag": "🇹🇭",
+    "phonecode": "66",
+    "currency": "THB",
+    "symbol": "฿",
+    "commonName": "Baht"
+  },
+  {
+    "name": "Timor-Leste",
+    "isoCode": "TL",
+    "flag": "🇹🇱",
+    "phonecode": "670",
+    "currency": "USD",
+    "symbol": "$",
+    "commonName": "United States Dollar"
+  },
+  {
+    "name": "Togo",
+    "isoCode": "TG",
+    "flag": "🇹🇬",
+    "phonecode": "228",
+    "currency": "XOF",
+    "symbol": "₣",
+    "commonName": "West African Franc"
+  },
+  {
+    "name": "Tokelau",
+    "isoCode": "TK",
+    "flag": "🇹🇰",
+    "phonecode": "690",
+    "currency": "NZD",
+    "symbol": "$",
+    "commonName": "New Zealand Dollar"
+  },
+  {
+    "name": "Tonga",
+    "isoCode": "TO",
+    "flag": "🇹🇴",
+    "phonecode": "676",
+    "currency": "TOP",
+    "symbol": "T$",
+    "commonName": "Tongan Paʻanga"
+  },
+  {
+    "name": "Trinidad and Tobago",
+    "isoCode": "TT",
+    "flag": "🇹🇹",
+    "phonecode": "1-868",
+    "currency": "TTD",
+    "symbol": "$",
+    "commonName": "Trinidad and Tobago Dollar"
+  },
+  {
+    "name": "Tunisia",
+    "isoCode": "TN",
+    "flag": "🇹🇳",
+    "phonecode": "216",
+    "currency": "TND",
+    "symbol": "د.ت.",
+    "commonName": "Tunisian Dinar"
+  },
+  {
+    "name": "Turkey",
+    "isoCode": "TR",
+    "flag": "🇹🇷",
+    "phonecode": "90",
+    "currency": "TRY",
+    "symbol": "₺",
+    "commonName": "Turkish Lira"
+  },
+  {
+    "name": "Turkmenistan",
+    "isoCode": "TM",
+    "flag": "🇹🇲",
+    "phonecode": "993",
+    "currency": "TMT",
+    "symbol": "T",
+    "commonName": "Turkmenistani Manat"
+  },
+  {
+    "name": "Turks and Caicos Islands",
+    "isoCode": "TC",
+    "flag": "🇹🇨",
+    "phonecode": "1-649",
+    "currency": "USD",
+    "symbol": "$",
+    "commonName": "United States Dollar"
+  },
+  {
+    "name": "Tuvalu",
+    "isoCode": "TV",
+    "flag": "🇹🇻",
+    "phonecode": "688",
+    "currency": "AUD",
+    "symbol": "$",
+    "commonName": "Australian Dollar"
+  },
+  {
+    "name": "Uganda",
+    "isoCode": "UG",
+    "flag": "🇺🇬",
+    "phonecode": "256",
+    "currency": "UGX",
+    "symbol": "Sh",
+    "commonName": "Ugandan Shilling"
+  },
+  {
+    "name": "Ukraine",
+    "isoCode": "UA",
+    "flag": "🇺🇦",
+    "phonecode": "380",
+    "currency": "UAH",
+    "symbol": "₴",
+    "commonName": "Ukrainian Hryvnia"
+  },
+  {
+    "name": "United Arab Emirates",
+    "isoCode": "AE",
+    "flag": "🇦🇪",
+    "phonecode": "971",
+    "currency": "AED",
+    "symbol": "د.إ",
+    "commonName": "UAE Dirham"
+  },
+  {
+    "name": "United Kingdom",
+    "isoCode": "GB",
+    "flag": "🇬🇧",
+    "phonecode": "44",
+    "currency": "GBP",
+    "symbol": "£",
+    "commonName": "Pound Sterling"
+  },
+  {
+    "name": "United States",
+    "isoCode": "US",
+    "flag": "🇺🇸",
+    "phonecode": "1",
+    "currency": "USD",
+    "symbol": "$",
+    "commonName": "United States Dollar"
+  },
+  {
+    "name": "Uruguay",
+    "isoCode": "UY",
+    "flag": "🇺🇾",
+    "phonecode": "598",
+    "currency": "UYU",
+    "symbol": "$",
+    "commonName": "Uruguayan Peso"
+  },
+  {
+    "name": "Uzbekistan",
+    "isoCode": "UZ",
+    "flag": "🇺🇿",
+    "phonecode": "998",
+    "currency": "UZS",
+    "symbol": "лв",
+    "commonName": "Uzbekistani Som"
+  },
+  {
+    "name": "Vanuatu",
+    "isoCode": "VU",
+    "flag": "🇻🇺",
+    "phonecode": "678",
+    "currency": "VUV",
+    "symbol": "Vt",
+    "commonName": "Vanuatu Vatu"
+  },
+  {
+    "name": "Vatican City",
+    "isoCode": "VA",
+    "flag": "🇻🇦",
+    "phonecode": "379",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "Venezuela",
+    "isoCode": "VE",
+    "flag": "🇻🇪",
+    "phonecode": "58",
+    "currency": "VES",
+    "symbol": "Bs.S.",
+    "commonName": "Venezuelan Bolívar"
+  },
+  {
+    "name": "Vietnam",
+    "isoCode": "VN",
+    "flag": "🇻🇳",
+    "phonecode": "84",
+    "currency": "VND",
+    "symbol": "₫",
+    "commonName": "Vietnamese Dong"
+  },
+  {
+    "name": "Wallis and Futuna",
+    "isoCode": "WF",
+    "flag": "🇼🇫",
+    "phonecode": "681",
+    "currency": "XPF",
+    "symbol": "₣",
+    "commonName": "CFP Franc"
+  },
+  {
+    "name": "Western Sahara",
+    "isoCode": "EH",
+    "flag": "🇪🇭",
+    "phonecode": "212",
+    "currency": "MAD",
+    "symbol": "د.م.",
+    "commonName": "Moroccan Dirham"
+  },
+  {
+    "name": "Yemen",
+    "isoCode": "YE",
+    "flag": "🇾🇪",
+    "phonecode": "967",
+    "currency": "YER",
+    "symbol": "﷼",
+    "commonName": "Yemeni Rial"
+  },
+  {
+    "name": "Zambia",
+    "isoCode": "ZM",
+    "flag": "🇿🇲",
+    "phonecode": "260",
+    "currency": "ZMW",
+    "symbol": "K",
+    "commonName": "Zambian Kwacha"
+  },
+  {
+    "name": "Zimbabwe",
+    "isoCode": "ZW",
+    "flag": "🇿🇼",
+    "phonecode": "263",
+    "currency": "ZWL",
+    "symbol": "$",
+    "commonName": "Zimbabwean Dollar"
+  },
+  {
+    "name": "Kosovo",
+    "isoCode": "XK",
+    "flag": "🇽🇰",
+    "phonecode": "383",
+    "currency": "EUR",
+    "symbol": "€",
+    "commonName": "Euro"
+  },
+  {
+    "name": "Curaçao",
+    "isoCode": "CW",
+    "flag": "🇨🇼",
+    "phonecode": "599",
+    "currency": "ANG",
+    "symbol": "ƒ",
+    "commonName": "Guilder"
+  }
+]

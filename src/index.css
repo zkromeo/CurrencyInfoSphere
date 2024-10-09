@@ -1,0 +1,41 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* index.css */
+
+/* Reset some common styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Set body styles for the entire website */
+  body {
+    font-family: 'Arial', sans-serif;
+    /* background-color: #f5f5f5; */
+    /* color: #333; */
+    line-height: 1.6;
+    /* display: flex; */
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+  }
+  
+  /* Default link styling */
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  /* Define global classes for common layouts */
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Add more global styles as needed */
+  
