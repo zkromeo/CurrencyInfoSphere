@@ -15,3 +15,15 @@ To install the CurrencyInfoSphere package, run the following command in your ter
 
 ```bash
 npm install CurrencyInfoSphere
+
+## Usage
+
+Once you have installed the **CurrencyInfoSphere** package, you can import it into your project like so:
+
+```javascript
+import countries from "CurrencyInfoSphere/allCountriesDetail.json";
+
+// Example: Logging country names
+countries.forEach(country => {
+   console.log(country.name);
+});
