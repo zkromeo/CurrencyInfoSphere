@@ -43,16 +43,13 @@ function App() {
                             />
                             <p className="flex gap-[3%] font-bold text-xs lg:text-sm">
                               <span>{selectedCountry?.currency}</span>
-                             <span> {selectedCountry?.symbol}</span>
+                              <span> {selectedCountry?.symbol}</span>
                               {/* <span>{selectedCountry?.name}</span> */}
                               <span>{selectedCountry?.commonName}</span>
                             </p>
                           </>
                         ) : (
-                          <p
-                            
-                            className=" font-bold text-black text-xs lg:text-sm"
-                          >
+                          <p className=" font-bold text-black text-xs lg:text-sm">
                             Select a Currency
                           </p>
                         )}
@@ -72,8 +69,6 @@ function App() {
                           </svg>
                         </div>
                       </Listbox.Button>
-
-                 
 
                       <div className="absolute top-0 right-0 h-full flex items-center pr-4">
                         <svg
@@ -128,7 +123,7 @@ function App() {
                               countryCode={c.isoCode}
                             />
                             {/* {c?.name} */}
-                            {c?.currency} {c?.symbol}   {c?.commonName} 
+                            {c?.currency} {c?.symbol} {c?.commonName}
                           </span>
                         </div>
                       )}
