@@ -4,7 +4,9 @@
 
 Check out the demo video for a quick overview of how to use the `currency-info-sphere` package and its features:
 
-<video  controls>
+[Watch the Demo Video](https://raw.githubusercontent.com/zkromeo/CurrencyInfoSphere/master/public/demo-video.mp4)
+
+<video controls>
   <source src="https://raw.githubusercontent.com/zkromeo/CurrencyInfoSphere/master/public/demo-video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
