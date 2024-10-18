@@ -22,6 +22,14 @@ This video will guide you through the functionalities of the package and show yo
 - Lightweight and easy-to-use API for internationalization
 - Ideal for web applications that require currency data
 
+## Support Currency Info Sphere
+
+Currency Info Sphere is an open-source project providing real-time currency exchange data, country details, and financial tools. We're in the process of setting up our Open Collective for community support.
+
+You can visit and follow our collective page here: [Currency Info Sphere on Open Collective](https://opencollective.com/currencyinfosphere) – *pending approval.*
+
+Stay tuned for updates, and thank you for your interest in supporting this project!
+
 ## Installation
 
 To install the package, use npm:
